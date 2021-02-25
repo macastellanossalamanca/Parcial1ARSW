@@ -1,6 +1,6 @@
 # Escuela Colombiana de Ingeniería Julio Garavito - Examen Final de Primer Tercio
 
-## Miguel Castellanos
+## Miguel Castellanos - Parcial ARSW
 
 ## Sistema de Registros de casos COVID
 
