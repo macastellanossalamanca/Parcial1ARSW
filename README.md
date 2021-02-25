@@ -1,5 +1,7 @@
 # Escuela Colombiana de Ingeniería Julio Garavito - Examen Final de Primer Tercio
 
+## Miguel Castellanos
+
 ## Sistema de Registros de casos COVID
 
 Usted ha sido contratado para agregar en un sistema todos los resultados de los examenes de COVID realizado a un conjunto de personas en varios hospitales de Bogotá a lo largo de esta pandemia. Para lograrlo, los resultados han sido exportados en archivos `.CSV`, su tarea es agregar la información identificando casos positivos, falsos positivos, falsos negativos y negativos. 
